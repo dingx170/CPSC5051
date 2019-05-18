@@ -7,5 +7,8 @@ namespace HW1c.Models
 {
     public class HomeViewModel
     {
+        public int PhoneCount;
+        public int UserCount;
+        public DateTime LastAcessDate;
     }
 }
